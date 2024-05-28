@@ -1,1 +1,1 @@
-# fitness_app
+# React Fitness App
